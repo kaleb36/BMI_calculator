@@ -7,7 +7,6 @@ customtkinter.set_default_color_theme("dark-blue")
 
 root = customtkinter.CTk()
 root.title("BMI Calculator")
-root.iconbitmap("H://codingdaily//tkb//Femfoyou-Angry-Birds-Angry-bird.ico")
 root.geometry("500x600")
 
 def pass_command():
